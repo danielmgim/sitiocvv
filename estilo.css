@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif
+}
+.estiloblanco {color:white}
+
+.foto {
+    border-radius: 64px;
+    border:solid 5px;
+    margin: 30px;
+    padding: 20px;
+}
