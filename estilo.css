@@ -58,6 +58,7 @@ h1{
     margin:5% auto;
     padding: 20px;
     flex-wrap: wrap;
+    
 }
 
 .info .titulo {
@@ -76,6 +77,7 @@ h1{
     font-size:x-large;
     display: inline;
     flex-wrap: wrap;
+    text-align: center;
 }
 .info .infoinfo {
     color: black;
@@ -210,4 +212,24 @@ nav .botones .cajaboton4:hover{
     transition-delay: .8s;
     border:solid #33423f;
     border-radius: 4px;
+}
+
+
+
+.video .videotxt {
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif; 
+    font-weight: bolder;
+    font-size: xx-large;
+    flex-wrap: wrap;
+
+}
+.info .textoa .titulo5 .vinculo {
+    color: #fff;
+    font-weight: bolder;
+    
+
+}
+.info .textoa .titulo5 .vinculo:hover {
+    text-decoration:underline;
 }
