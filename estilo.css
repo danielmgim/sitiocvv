@@ -191,25 +191,25 @@ nav .botones .cajaboton4 {
 }
 nav .botones .cajaboton1:hover{
     box-shadow: 0 0 10px #313f34, 0 0 40px #313f34, 0 0 #313f34;
-    transition-delay: .8s;
+    transition-delay: .0,2s;
     border:solid #33423f;
     border-radius: 4px;
 }
 nav .botones .cajaboton2:hover{
     box-shadow: 0 0 10px #313f34, 0 0 40px #313f34, 0 0 #313f34;
-    transition-delay: .8s;
+    transition-delay: .0,2s;
     border:solid #33423f;
     border-radius: 4px;
 }
 nav .botones .cajaboton3:hover{
     box-shadow: 0 0 10px #313f34, 0 0 40px #313f34, 0 0 #313f34;
-    transition-delay: .8s;
+    transition-delay: .0,2s;
     border:solid #33423f;
     border-radius: 4px;
 }
 nav .botones .cajaboton4:hover{
     box-shadow: 0 0 10px #313f34, 0 0 40px #313f34, 0 0 #313f34;
-    transition-delay: .8s;
+    transition-delay: .0,2s;
     border:solid #33423f;
     border-radius: 4px;
 }
