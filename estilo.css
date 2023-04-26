@@ -11,11 +11,12 @@ h1{
 .estiloblanco {color:white}
 
  .foto {
-float: left;
-   width: 1px;
-   position: relative;
-   left:1400px;
-   top:110px;
+    float: left;
+    width: 1px;
+    position: relative;
+    left:75%;
+    top:110px;
+
 
    
 }
